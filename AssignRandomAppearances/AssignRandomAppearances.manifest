@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"16073371-569e-47a8-ba29-33e5eb175f39",
+	"author":	"Dmytro Kyrychuk",
+	"description":	{
+		"":	"Assign random appearance to each body"
+	},
+	"version":	"0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows"
+}
